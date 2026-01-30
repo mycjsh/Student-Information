@@ -1,0 +1,29 @@
+PS D:\vsc> java studentinformation.java
+Student Information
+-------------------
+Name: Clarence Artajo
+Age: 19
+Course: BSIT
+
+Name: Hiroshi Gyumie
+Age: 19
+Course: BSED
+
+Name: null
+Age: 0
+Course: null
+
+PS D:\vsc> java studentinformation.java
+Student Information
+-------------------
+Name: Clarence Artajo
+Age: 19
+Course: BSIT
+
+Name: Raikashi Tendo
+Age: 19
+Course: BSBA
+
+Name: Hiroshi Gyumie
+Age: 19
+Course: BSED
